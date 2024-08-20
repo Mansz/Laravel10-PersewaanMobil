@@ -1,11 +1,11 @@
-Data Cars
-<img width="959" alt="cars" src="https://github.com/user-attachments/assets/26f7d0b8-3cc5-4136-b953-07821114d073">
+Aplikasi ini dirancang untuk mempermudah manajemen penyewaan mobil dengan fitur-fitur berikut:
 
-Data Customers
-<img width="959" alt="customers" src="https://github.com/user-attachments/assets/8956eb5d-de9f-4e6e-a801-e4b3f3eb592b">
-
-Data Rentals
-<img width="959" alt="renstal" src="https://github.com/user-attachments/assets/9cee4e40-e436-4d43-9112-2967160cbb7a">
+- Pengelolaan Data Mobil: Pengguna dapat menambahkan, memperbarui, dan menghapus data mobil, termasuk informasi seperti merk, model, nomor plat, tarif sewa, dan foto mobil.
+- Manajemen Penyewaan: Aplikasi memungkinkan pengguna untuk mencatat dan melacak penyewaan mobil, termasuk informasi pelanggan dan tanggal sewa.
+- Validasi Data: Setiap input yang dimasukkan ke dalam sistem divalidasi untuk memastikan konsistensi dan integritas data, seperti mencegah nomor plat duplikat.
+- Antarmuka Pengguna: Aplikasi memiliki antarmuka yang user-friendly, memudahkan pengguna dalam navigasi dan penggunaan fitur.
+- Penyimpanan File: Foto mobil disimpan dengan aman menggunakan sistem penyimpanan Laravel, sehingga mudah diakses melalui URL publik.
+- Database Relasional: Menggunakan database relasional untuk mengelola relasi antara tabel, seperti antara mobil dan penyewaan.
 
 Note :
 SIlahkan dapat pengembangan kembali sesuai kebutuhan aplikasi anda
